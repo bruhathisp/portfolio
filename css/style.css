@@ -163,7 +163,28 @@ header .navbar ul li a:hover{
     color: var(--yellow);
 }
 
+.experience {
+    padding: 1rem 6rem; /* Adjust as needed */
+    color: #fff;
+}
 
+.experience h2 {
+    font-size: 3.5rem;
+    color: var(--yellow);
+    margin-bottom: 1rem;
+}
+
+.experience h3 {
+    font-size: 2rem;
+    color: #fff;
+    margin-bottom: 0.5rem;
+}
+
+.experience p {
+    font-size: 1.8rem;
+    color: #eee;
+    margin-bottom: 1rem;
+}
 #menu{
     position:fixed;
     top:2rem; right:2rem;
